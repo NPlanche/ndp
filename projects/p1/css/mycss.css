@@ -1,0 +1,25 @@
+h3{
+    font-family:serif;
+    color:darkblue;
+    text-decoration: underline;
+    }
+h1{
+    font-style: oblique;
+    font-family:serif;
+  }
+
+body{
+        background-color: azure;
+        margin-left: 25px;
+        font-size: 11pt;   
+    }
+th{color:darkslateblue;}
+
+td{font-style:oblique;}
+
+li{font-style:oblique;}
+footer{
+
+    font-style:oblique;
+    }
+
